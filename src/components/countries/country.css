@@ -1,6 +1,10 @@
-.country{
-    border: 1px solid green;
+.country {
+    border: 5px solid darkblue;
     padding: 5px;
     margin-top: 20px;
     border-radius: 20px;
+}
+
+.country-visited {
+    border: 5px solid green;
 }
