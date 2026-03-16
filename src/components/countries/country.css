@@ -8,3 +8,16 @@
 .country-visited {
     border: 5px solid green;
 }
+
+.flag{
+    max-height: 50px;
+    width: auto;
+}
+
+.flag-box{
+    display: flex;
+    gap: 5px;
+}
+ol{
+    width: fit-content;
+}
